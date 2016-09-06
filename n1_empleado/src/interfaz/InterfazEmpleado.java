@@ -1,20 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package interfaz;
-
 import java.awt.BorderLayout;
-
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import mundo.Empleado;
 import mundo.Fecha;
-
-
-
 /**
  * Esta es la ventana principal de la aplicación. Contiene a los paneles que tienen los botones y muestran la información del empleado.
  */
